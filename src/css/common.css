@@ -102,6 +102,7 @@ button {
     min-height: 36px;
     padding: 0 var(--font-size);
     vertical-align: middle;
+    cursor: pointer;
     }
 button.vflex {
     height: 100%;
